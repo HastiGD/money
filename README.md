@@ -1,0 +1,2 @@
+# money
+This project contains the Java source code required to generate money objects, and perform operations on them using a driver. It also includes a test suite for the money class. In this project I used a different approach called test driven design, or TDD. The TDD methods involves writing the test code and the program simultaneously such that when the program has been completed the test suite is also complete. 
